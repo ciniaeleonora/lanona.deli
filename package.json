@@ -1,7 +1,6 @@
 {
   "name": "lanona.deli",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,5 +23,7 @@
     "jsonwebtoken": "^8.5.1",
     "pg": "^8.6.0",
     "sequelize": "^6.6.5"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
